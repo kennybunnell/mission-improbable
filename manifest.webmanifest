@@ -1,0 +1,17 @@
+{
+  "name": "Mission: Improbable",
+  "short_name": "Mission Control",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#10152a",
+  "theme_color": "#10152a",
+  "description": "Two agents. One relationship. Unlimited missions.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
